@@ -98,4 +98,4 @@ This project is open-source under the **MIT License**.
 ---
 
 ## 📝 Author
-Developed by **[Your Name]** 🚀
+Developed by **GECO97** 🚀
