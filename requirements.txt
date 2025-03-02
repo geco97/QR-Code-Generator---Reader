@@ -1,0 +1,10 @@
+qrcode
+requests
+beautifulsoup4
+sumy
+pillow
+pygame
+opencv-python
+pyzbar
+numpy
+logging
